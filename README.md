@@ -4,6 +4,12 @@
 
 I tracked my life for one month and recorded my daily activities. Then, I used tools from Data Science to look for interesting patterns that I could use to adjust my lifestyle.
 
+Some interesting graphs:
+![Total productivity](img/tot_prod.png)
+![Sleep duration](img/sleep_duration.png)
+
+One surprising observation was the inconsistency of my sleep. I suspect that this has to do with eating too late. **As a real-life consequence of this data analysis, I moved my usual dinner time to one hour earlier (7pm instead of 8pm).**
+
 ## Notebooks
 
 * [Main](https://nbviewer.jupyter.org/github/maxims94/life-tracking-project/blob/master/notebooks/main.ipynb)
